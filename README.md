@@ -1,8 +1,8 @@
-## Welcome to The Long Way
+## Welcome to The Best Way
 
-You can use the [editor on GitHub](https://github.com/AnikaKan/RandFax/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Follow me on my journey to find the best way to do simply tasks, whether it be eating a snack or doing an activity. I explore and experiment to figure out the optimal method to do something. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Though you may not find my reasoning for doing certain things a certain way, I assure that you will at the very least be entertained. Sometimes, the best way is the long way...
 
 ### Markdown
 
