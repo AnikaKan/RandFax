@@ -23,6 +23,8 @@ I have been eating KitKats like this forever. However, somoene brought this meth
 
 Watch Kourtney Kardashian explain this method of eating KitKats [here](https://www.youtube.com/watch?v=Te0lyq6no98)!
 
+![Youtube Logo](https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
