@@ -13,7 +13,7 @@ Though you may not find my reasoning good enough for doing certain things a cert
 
 Don't forget to enjoy every step to have the full and *best* experience.
 
-![KitKat](https://www.google.com/search?q=kitkat+stick&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv6aijnZXsAhWWq54KHcaiC8cQ_AUoAXoECBsQAw&biw=1440&bih=789&safe=active&ssui=on#imgrc=7NUyjRrdwjkHvM)
+![KitKat](https://smedia.webcollage.net/rwvfp/wc/cp/13271205_legacycode/module/hersheys/_cp/products/1393528501629/tab-76c792e9-5a0b-45ee-8ef0-f626543a6a69/5d2464b7-f65e-471a-aa07-4290d8b8d100.jpg.w480.jpg)
 
 ## Some Background
 
