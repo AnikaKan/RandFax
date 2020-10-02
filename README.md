@@ -1,8 +1,8 @@
 ## Welcome to The Best Way
 
-Follow me on my journey to find the best way to do simply tasks, whether it be eating a snack or doing an activity. I explore and experiment to figure out the optimal method to do something. 
+Follow me on my journey to find the best way to do simply tasks, whether it be eating a snack or doing an activity. I explore and experiment to figure out the optimal method to do absolutely anything. 
 
-Though you may not find my reasoning for doing certain things a certain way, I assure that you will at the very least be entertained. Sometimes, the best way is the long way...
+Though you may not find my reasoning good enough for doing certain things a certain way, I assure that you will at the very least be entertained. And remember, sometimes the best way to do something is not always the fastest way to do it...
 
 ### Markdown
 
