@@ -13,6 +13,8 @@ Though you may not find my reasoning good enough for doing certain things a cert
 
 Don't forget to enjoy every step to have the full and *best* experience.
 
+![KitKat](https://www.google.com/search?q=kitkat+stick&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv6aijnZXsAhWWq54KHcaiC8cQ_AUoAXoECBsQAw&biw=1440&bih=789&safe=active&ssui=on#imgrc=7NUyjRrdwjkHvM)
+
 ## Some Background
 
 I probably had my first KitKat when I was about four years old. I remember it being one of the best things I've tasted, and now, it is one of my top 5 chocolates, coming in third after Twix and Reeses respectively. I definitely recommend these to **everyone**.
