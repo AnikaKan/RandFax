@@ -4,33 +4,22 @@ Follow me on my journey to find the best way to do simply tasks, whether it be e
 
 Though you may not find my reasoning good enough for doing certain things a certain way, I assure that you will at the very least be entertained. And remember, sometimes the best way to do something is not always the fastest way to do it...
 
-### Markdown
+## How to eat a KitKat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Break apart a stick of KitKat from the whole chocolate bar.
+2. Eat the chocolate on the sides of the KitKat stick.
+3. Take apart the top and bottom of the KitKat wafer so that there is no longer any chocolate on the stick.
+4. Eat the wafer!
 
-```markdown
-Syntax highlighted code block
+Don't forget to enjoy every step to have the full and *best* experience.
 
-# Header 1
-## Header 2
-### Header 3
+### Some Background
 
-- Bulleted
-- List
+I probably had my first KitKat when I was about four years old. I remember it being one of the best things I've tasted, and now, it is one of my top 5 chocolates, cominf in third after Twix and Reeses respectively. I definitely recommend these to **EVERYONE**.
 
-1. Numbered
-2. List
+I have been eating KitKats like this forever. However, somoene brought this method into the public eye around four years ago; Kourtney Kardashian introduced this way of eating KitKats to the world on her YouTube channel. Much of her audience made fun of her for it, even though people have been doing this for years. Despite all the backlash, there is just one thing I have to convey: this is **THE BEST WAY** to eat KitKats.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnikaKan/RandFax/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Watch Kourtney Kardashian explain this method of eating KitKats [here](https://www.youtube.com/watch?v=Te0lyq6no98)!
 
 ### Support or Contact
 
