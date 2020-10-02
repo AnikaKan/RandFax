@@ -15,7 +15,7 @@ Don't forget to enjoy every step to have the full and *best* experience.
 
 ### Some Background
 
-I probably had my first KitKat when I was about four years old. I remember it being one of the best things I've tasted, and now, it is one of my top 5 chocolates, cominf in third after Twix and Reeses respectively. I definitely recommend these to **everyone**.
+I probably had my first KitKat when I was about four years old. I remember it being one of the best things I've tasted, and now, it is one of my top 5 chocolates, coming in third after Twix and Reeses respectively. I definitely recommend these to **everyone**.
 
 I have been eating KitKats like this forever. However, somoene brought this method into the public eye around four years ago; Kourtney Kardashian introduced this way of eating KitKats to the world on her YouTube channel. Much of her audience made fun of her for it, even though people have been doing this for years. Despite all the backlash, there is just one thing I have to convey: this is **THE BEST WAY** to eat a KitKat.
 
